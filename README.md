@@ -54,7 +54,7 @@ How to Use
 
     bash
 
-    git clone https://github.com/YourUsername/ATLIQ-Hardware-SQL-Analytics.git
+    git clone https://github.com/A-DAB/Finance-and-Supply-Chain-Analysis.git
 
     Database Setup: Load the provided database schema and sample data into MySQL.
     Execute Queries: Run the SQL scripts for views, stored procedures, and queries in the respective order mentioned in the project structure.
